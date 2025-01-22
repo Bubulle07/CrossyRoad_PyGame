@@ -11,3 +11,5 @@ Images References :
 Other References :
 # Game concept inspired by Crossy Road
 Font : https://www.dafont.com/8bit-wonder.font
+
+Game Made by Jules during the BMLSS Programming Course ICS3C
