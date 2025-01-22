@@ -1,0 +1,13 @@
+Code References :
+https://stackoverflow.com/questions/54615257/is-there-an-better-way-to-create-a-tilemap-in-pygame
+https://stackoverflow.com/questions/6339057/draw-transparent-rectangles-and-polygons-in-pygame
+https://www.geeksforgeeks.org/getting-width-and-height-of-an-image-in-pygame/
+https://stackoverflow.com/questions/21271059/how-do-i-change-the-pygame-icon
+https://www.makeuseof.com/pygame-fonts-text-effects-how-load/
+
+Images References :
+# Textures inspired by Crossy Road
+
+Other References :
+# Game concept inspired by Crossy Road
+Font : https://www.dafont.com/8bit-wonder.font
